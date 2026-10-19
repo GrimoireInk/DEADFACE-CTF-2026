@@ -1,0 +1,25 @@
+
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Sensitive material
+*.pem
+*.key
+*.p12
+
+# Generated files and analysis artifacts
+*.apk
+*.zip
+*.log
+decoded_apk/
+extracted_apk/
+jadx_output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local workspace settings
+.vscode/
