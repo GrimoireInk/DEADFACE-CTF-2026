@@ -13,7 +13,7 @@ This directory documents my investigation of the application, including static a
 | Challenge | Points | Status | Write-up |
 |---|---|---|---|
 | Info Leaks | 25 | ✅ Solved | [View Write-up](info-leaks/README.md) |
-| Down the Rabbit Hole | — | ✅ Solved | [View Write-up](down-the-rabbit-hole/README.md) |
+| Down the Rabbit Hole | 10 | ✅ Solved | [View Write-up](down-the-rabbit-hole/README.md) |
 | SQL Skillz | 50 | ✅ Solved | [View Write-up](sql-skillz/README.md) |
 | Back to Basics | 15 | ✅ Solved | [View Write-up](back-to-basics/README.md) |
 
