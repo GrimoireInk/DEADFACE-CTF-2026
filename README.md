@@ -39,7 +39,7 @@ The investigations involve examining iOS application packages, analyzing embedde
 | Info Leaks | ✅ Solved | [View Investigation](challenges/aurora-patient-zero/info-leaks/README.md) |
 | Down the Rabbit Hole | ✅ Solved | [View Investigation](challenges/aurora-patient-zero/down-the-rabbit-hole/README.md) |
 | SQL Skillz | ✅ Solved | [View Investigation](sql-skillz/README.md) |
-| Back to Basics | ✅ Solved | [View Investigation](back-to-basics/README.md) |
+| Back to Basics | ✅ Solved | [View Investi](back-to-basics/README.md) |
 
 **[Explore the Aurora Patient Zero Collection →](challenges/aurora-patient-zero/README.md)**
 
