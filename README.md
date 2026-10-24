@@ -45,6 +45,18 @@ The investigations involve examining iOS application packages, analyzing embedde
 
 *Additional challenge collections will be added as documentation progresses.*
 
+
+### Miscellaneous
+
+Competition orientation and acknowledgment challenges.
+
+| Challenge | Write-up |
+|---|---|
+| AI Usage Policy | [View Write-up](challenges/miscellaneous/ai-usage-policy/README.md) |
+| Starter | [View Write-up](challenges/miscellaneous/starter/README.md) |
+
+**[View Miscellaneous Collection](challenges/miscellaneous/README.md)**
+
 ---
 
 ## Technical Skills & Concepts
