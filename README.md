@@ -24,13 +24,9 @@ My goal is to build a comprehensive cybersecurity knowledge base while strengthe
 
 ## Challenge Collections
 
-### 🏥 Aurora Patient Zero
-
-**Category:** Mobile Security / Information Disclosure
+### Aurora Patient Zero
 
 A series of challenges investigating potential information exposure within the fictional Aurora Health Patient Portal iOS application.
-
-The investigations involve examining iOS application packages, analyzing embedded resources, extracting encoded data, and identifying sensitive information unintentionally exposed through application files and metadata.
 
 **Challenges Documented:**
 
@@ -43,12 +39,7 @@ The investigations involve examining iOS application packages, analyzing embedde
 
 **[Explore the Aurora Patient Zero Collection →](challenges/aurora-patient-zero/README.md)**
 
-*Additional challenge collections will be added as documentation progresses.*
-
-
 ### Miscellaneous
-
-Competition orientation and acknowledgment challenges.
 
 | Challenge | Write-up |
 |---|---|
@@ -56,6 +47,17 @@ Competition orientation and acknowledgment challenges.
 | Starter | [View Write-up](challenges/miscellaneous/starter/README.md) |
 
 **[View Miscellaneous Collection](challenges/miscellaneous/README.md)**
+
+
+### Cryptography
+
+Cryptography challenges involving classical ciphers, encryption, decryption, and cryptanalysis.
+
+| Challenge | Points | Status | Write-up |
+|---|---:|---|---|
+| Hail Caesar | 5 | ✅ Solved | [View Write-up](challenges/cryptography/hail-caesar/README.md) |
+
+*Additional challenge collections will be added as documentation progresses.*
 
 ---
 
