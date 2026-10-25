@@ -18,6 +18,8 @@
 
 Welcome to DEADFACE CTF 2026! We're excited to have you here. This year, you'll be working for a (fictional) organization called Zero Trace. Your mission is to investigate DEADFACE incidents and beat them at their own game! Please watch this quick intro video - it will introduce you to the event and provide you with much-needed information.
 
+https://www.youtube.com/watch?v=pn3edE_DA9c
+
 ## 2. Challenge Objective
 
 The objective is to familiarize competitors with the event and introduce the standard DEADFACE CTF flag format.
