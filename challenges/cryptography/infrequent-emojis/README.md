@@ -7,6 +7,7 @@
 | Competition | DEADFACE CTF 2026 |
 | Category | Cryptography |
 | Challenge | Infrequent Emojis |
+| Points | 50 |
 | Technique | Monoalphabetic Substitution Cipher / Pattern Analysis |
 | Platform | DoomScroll |
 | Source | https://doomscroll.dctf.io/ |

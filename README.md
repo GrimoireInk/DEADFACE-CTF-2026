@@ -58,7 +58,7 @@ Cryptography challenges involving classical ciphers, hexadecimal encoding, XOR e
 | Hail Caesar | 5 | ✅ Solved | [View Write-up](challenges/cryptography/hail-caesar/README.md) |
 | DECODE-DLE | 25 | ✅ Solved | [View Write-up](challenges/cryptography/decode-dle/README.md) |
 | X Marks the Spot | 30 | ✅ Solved | [View Write-up](challenges/cryptography/x-marks-the-spot/README.md) |
-| Infrequent Emojis | — | ✅ Solved | [View Write-up](challenges/cryptography/infrequent-emojis/README.md) |
+| Infrequent Emojis | 50 | ✅ Solved | [View Write-up](challenges/cryptography/infrequent-emojis/README.md) |
 
 **[View Cryptography Collection](challenges/cryptography/README.md)**
 
