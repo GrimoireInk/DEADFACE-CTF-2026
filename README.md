@@ -56,10 +56,16 @@ A series of challenges investigating potential information exposure within the f
 
 Cryptography challenges involving classical ciphers, encryption, decryption, and logical deduction.
 
+
+### Cryptography
+
+Cryptography challenges involving classical ciphers, hexadecimal encoding, XOR encryption, and logical deduction.
+
 | Challenge | Points | Status | Write-up |
 |---|---:|---|---|
 | Hail Caesar | 5 | ✅ Solved | [View Write-up](challenges/cryptography/hail-caesar/README.md) |
 | DECODE-DLE | 25 | ✅ Solved | [View Write-up](challenges/cryptography/decode-dle/README.md) |
+| X Marks the Spot | 30 | ✅ Solved | [View Write-up](challenges/cryptography/x-marks-the-spot/README.md) |
 
 *Additional challenge collections will be added as documentation progresses.*
 
