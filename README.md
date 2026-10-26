@@ -59,6 +59,7 @@ Cryptography challenges involving classical ciphers, hexadecimal encoding, XOR e
 | DECODE-DLE | ✅ Solved | [View Write-up](challenges/cryptography/decode-dle/README.md) |
 | X Marks the Spot | ✅ Solved | [View Write-up](challenges/cryptography/x-marks-the-spot/README.md) |
 | Infrequent Emojis | ✅ Solved | [View Write-up](challenges/cryptography/infrequent-emojis/README.md) |
+| Second Shift | 90 | ✅ Solved | [View Write-up](challenges/cryptography/second-shift/README.md) |
 
 **[View Cryptography Collection](challenges/cryptography/README.md)**
 

@@ -14,8 +14,7 @@ Each write-up contains the challenge methodology, evidence, technical explanatio
 | DECODE-DLE | 25 | ✅ Solved | [View Write-up](decode-dle/README.md) |
 | X Marks the Spot | 30 | ✅ Solved | [View Write-up](x-marks-the-spot/README.md) |
 | Infrequent Emojis | 50 | ✅ Solved | [View Write-up](infrequent-emojis/README.md) |
-
-[View Cryptography Collection](challenges/cryptography/README.md)
+| Second Shift | 90 | ✅ Solved | [View Write-up](second-shift/README.md) |
 
 **Completed Challenges:** 4
 
@@ -39,6 +38,10 @@ Each write-up contains the challenge methodology, evidence, technical explanatio
 
 [Infrequent Emojis](infrequent-emojis/README.md) — Decoding a monoalphabetic emoji substitution cipher using pattern recognition and known plaintext.
 
+### 5. Known-Plaintext Attacks & Keystream Reuse
+
+[Second Shift](second-shift/README.md) - Recovered a second encrypted transmission by deriving a shared XOR keystream from a known plaintext/ciphertext pair.
+
 ## Tools & Technologies
 
 - macOS Terminal
@@ -47,5 +50,3 @@ Each write-up contains the challenge methodology, evidence, technical explanatio
 - Text editors
 - DoomScroll
 - Git & GitHub
-
----
