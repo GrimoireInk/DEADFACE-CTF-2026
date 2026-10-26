@@ -1,4 +1,4 @@
-# 🔐 Cryptography — DEADFACE CTF 2026
+# Cryptography — DEADFACE CTF 2026
 
 ## Collection Overview
 
@@ -15,10 +15,7 @@ Each write-up contains the challenge methodology, evidence, technical explanatio
 | X Marks the Spot | 30 | ✅ Solved | [View Write-up](x-marks-the-spot/README.md) |
 | Infrequent Emojis | 50 | ✅ Solved | [View Write-up](infrequent-emojis/README.md) |
 | Second Shift | 90 | ✅ Solved | [View Write-up](second-shift/README.md) |
-
-**Completed Challenges:** 4
-
-**Confirmed Points:** 110, plus Infrequent Emojis.
+| Digital Design | 100 | ✅ Solved | [View Write-up](digital-design/README.md) |
 
 ## Techniques Explored
 
@@ -41,6 +38,10 @@ Each write-up contains the challenge methodology, evidence, technical explanatio
 ### 5. Known-Plaintext Attacks & Keystream Reuse
 
 [Second Shift](second-shift/README.md) - Recovered a second encrypted transmission by deriving a shared XOR keystream from a known plaintext/ciphertext pair.
+
+### 6. Boolean Logic & Binary Encoding
+
+[Digital Design](digital-design/README.md) - Decoded a message using binary inputs paired with AND, OR, NOT, and XOR logic gates. Converted each five-bit output into a letter using A1Z26.
 
 ## Tools & Technologies
 
