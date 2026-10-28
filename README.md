@@ -76,6 +76,7 @@ Steganography challenges involving hidden information, image metadata, document 
 | File Dump 01 | 10 | ✅ Personal Solve | [View Write-up](challenges/steganography/file-dump-01/README.md) |
 | Hidden Loot Box | 15 | 📝 Reconstructed — Resource Offline | [View Write-up](challenges/steganography/hidden-loot-box/README.md) |
 | Exfiltration | 75 | ✅ Flag Recovered — Post-CTF Investigation | [View Write-up](exfiltration/README.md) |
+| Conduct Unbecoming | 75 | ✅ Solved Post-CTF | [View Write-up](challenges/steganography/conduct-unbecoming/README.md) |
 
 **[View Steganography Collection](challenges/steganography/README.md)**
 

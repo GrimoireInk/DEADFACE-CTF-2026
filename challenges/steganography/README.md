@@ -15,6 +15,7 @@ Each investigation includes the challenge methodology, supporting evidence, tech
 | File Dump 01 | 10 | ✅ Solved — Personal Solve | [View Write-up](file-dump-01/README.md) |
 | Hidden Loot Box | 15 | 📝 Reconstructed — Resource Offline | [View Write-up](hidden-loot-box/README.md) |
 | Exfiltration | 75 | ✅ Flag Recovered — Post-CTF Investigation | [View Write-up](exfiltration/README.md) |
+| Conduct Unbecoming | 75 | ✅ Solved Post-CTF | [View Write-up](conduct-unbecoming/README.md) |
 
 ## Techniques Explored
 
