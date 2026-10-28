@@ -16,6 +16,7 @@ Each write-up contains the challenge methodology, evidence, technical explanatio
 | Infrequent Emojis | 50 | ✅ Solved | [View Write-up](infrequent-emojis/README.md) |
 | Second Shift | 90 | ✅ Solved | [View Write-up](second-shift/README.md) |
 | Digital Design | 100 | ✅ Solved | [View Write-up](digital-design/README.md) |
+| Chess Key | 200 | 📖 Unsolved — Post-CTF Reference Study | [View Write-Up](chess-key/README.md) |
 
 ## Techniques Explored
 
@@ -35,13 +36,21 @@ Each write-up contains the challenge methodology, evidence, technical explanatio
 
 [Infrequent Emojis](infrequent-emojis/README.md) — Decoding a monoalphabetic emoji substitution cipher using pattern recognition and known plaintext.
 
-### 5. Known-Plaintext Attacks & Keystream Reuse
+### Known-Plaintext Attacks & Keystream Reuse
 
 [Second Shift](second-shift/README.md) - Recovered a second encrypted transmission by deriving a shared XOR keystream from a known plaintext/ciphertext pair.
 
-### 6. Boolean Logic & Binary Encoding
+### Boolean Logic & Binary Encoding
 
 [Digital Design](digital-design/README.md) - Decoded a message using binary inputs paired with AND, OR, NOT, and XOR logic gates. Converted each five-bit output into a letter using A1Z26.
+
+### Chess-Based Cryptography & OSINT
+
+[Chess Key](chess-key/README.md) — Post-CTF reference study exploring public chess game records, alphabetic chessboard mappings, and Vigenère cipher decryption. The published solution is credited to TheMusk3teers.
+
+### PGN Parsing & Python Automation
+
+[Chess Key](chess-key/README.md) — Independently analyzed over 163,000 chess game records using Python, `python-chess`, and `zstandard`. Extracted chess coordinates, reconstructed a 64-square alphabetic board, and tested key-generation hypotheses.
 
 ## Tools & Technologies
 

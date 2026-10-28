@@ -48,23 +48,23 @@ A series of challenges investigating potential information exposure within the f
 
 **[View Miscellaneous Collection](challenges/miscellaneous/README.md)**
 
-
 ### Cryptography
 
-Cryptography challenges involving classical ciphers, hexadecimal encoding, XOR encryption, and logical deduction.
+Cryptography challenges involving classical ciphers, encoding, XOR encryption, substitution ciphers, Boolean logic, and chess-based cryptography.
+
+Six challenges were solved during DEADFACE CTF 2026. Chess Key is included as a post-CTF reference study, with the published solution credited to TheMusk3teers.
 
 | Challenge | Points | Status | Write-up |
 |---|---:|---|---|
-| Hail Caesar | ✅ Solved | [View Write-up](challenges/cryptography/hail-caesar/README.md) |
-| DECODE-DLE | ✅ Solved | [View Write-up](challenges/cryptography/decode-dle/README.md) |
-| X Marks the Spot | ✅ Solved | [View Write-up](challenges/cryptography/x-marks-the-spot/README.md) |
-| Infrequent Emojis | ✅ Solved | [View Write-up](challenges/cryptography/infrequent-emojis/README.md) |
+| Hail Caesar | 5 | ✅ Solved | [View Write-up](challenges/cryptography/hail-caesar/README.md) |
+| DECODE-DLE | 25 | ✅ Solved | [View Write-up](challenges/cryptography/decode-dle/README.md) |
+| X Marks the Spot | 30 | ✅ Solved | [View Write-up](challenges/cryptography/x-marks-the-spot/README.md) |
+| Infrequent Emojis | 50 | ✅ Solved | [View Write-up](challenges/cryptography/infrequent-emojis/README.md) |
 | Second Shift | 90 | ✅ Solved | [View Write-up](challenges/cryptography/second-shift/README.md) |
-| Digital Design | 100 | ✅ Solved | [View Write-up](digital-design/README.md) |
+| Digital Design | 100 | ✅ Solved | [View Write-up](challenges/cryptography/digital-design/README.md) |
+| Chess Key | 200 available | 📖 Unsolved — Post-CTF Reference Study | [View Write-up](challenges/cryptography/chess-key/README.md) |
 
 **[View Cryptography Collection](challenges/cryptography/README.md)**
-
-*Additional challenge collections will be added as documentation progresses.*
 
 ---
 
@@ -78,6 +78,9 @@ The challenges in this repository involve developing practical experience with:
 - **Encoding & Data Formats:** Base64, JSON, binary property lists, and structured application resources.
 - **Command-Line Investigation:** macOS Terminal, file enumeration, string extraction, and targeted searches.
 - **Security Documentation:** Reproducible investigations, evidence-based findings, and technical reporting.
+- **Cryptography & Cryptanalysis:** Caesar ciphers, ROT13, monoalphabetic substitution, known-plaintext attacks, XOR keystream analysis, and Vigenère cipher concepts.
+- **Python Automation & Data Analysis:** PGN parsing with `python-chess`, processing compressed chess archives using `zstandard`, automated game filtering, coordinate extraction, and ciphertext analysis.
+- **Open-Source Intelligence (OSINT):** Researching public chess game databases, correlating information from online discussions, and evaluating external evidence to investigate cryptographic challenges.
 
 Additional skills and techniques will be documented as new challenges are completed.
 
@@ -98,6 +101,10 @@ Additional skills and techniques will be documented as new challenges are comple
 | `base64` | Decoding encoded application data |
 | VS Code | Documentation and Markdown editing |
 | Git & GitHub | Version control and portfolio management |
+| Python 3 | Investigation scripting, data parsing, and cryptographic analysis |
+| python-chess | PGN parsing, chess move reconstruction, and coordinate extraction |
+| zstandard | Processing compressed `.zst` chess game archives |
+| Lichess PGN Archives | Public chess game records used for OSINT research |
 
 ---
 
@@ -112,6 +119,10 @@ Each challenge write-up is structured to include:
 5. **Security Implications:** Vulnerabilities, exposure risks, and defensive considerations.
 6. **Lessons Learned:** Skills developed and improvements for future investigations.
 7. **Challenge Flag:** A collapsible spoiler section containing the confirmed flag.
+
+### Post-CTF Reference Studies
+
+Challenges not solved during the competition may be documented as post-CTF reference studies. These entries clearly distinguish my independent investigation from externally sourced solutions, credit original authors, and do not count unsolved challenges toward my competition points or completed challenge totals.
 
 Both successful and unsuccessful techniques may be documented when they contribute to understanding the investigation.
 
