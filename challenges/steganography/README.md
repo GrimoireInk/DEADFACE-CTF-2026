@@ -13,6 +13,7 @@ Each investigation includes the challenge methodology, supporting evidence, tech
 |---|---:|---|---|
 | Headshot | 10 | ✅ Team Solve — Independently Reproduced | [View Write-up](headshot/README.md) |
 | File Dump 01 | 10 | ✅ Solved — Personal Solve | [View Write-up](file-dump-01/README.md) |
+| Hidden Loot Box | 15 | 📝 Reconstructed — Resource Offline | [View Write-up](hidden-loot-box/README.md) |
 
 ## Techniques Explored
 
@@ -42,6 +43,9 @@ Each investigation includes the challenge methodology, supporting evidence, tech
 
 [File Dump 01](file-dump-01/README.md) — Identified a DEADFACE member's alias by analyzing creator and last-modifier metadata across Microsoft Office documents using ExifTool.
 
+### Web Reconnaissance & robots.txt Enumeration
+
+[Hidden Loot Box](hidden-loot-box/README.md) — Reconstructed a challenge involving `robots.txt` discovery, navigation to an unlinked webpage, and recovery of a flag displayed within an image. The original challenge server is no longer accessible.
 
 ## Investigation Approach
 
