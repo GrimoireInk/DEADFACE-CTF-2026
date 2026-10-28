@@ -74,6 +74,7 @@ Steganography challenges involving hidden information, image metadata, document 
 |---|---:|---|---|
 | Headshot | 10 | ✅ Team Solve — Independently Reproduced | [View Write-up](challenges/steganography/headshot/README.md) |
 | File Dump 01 | 10 | ✅ Personal Solve | [View Write-up](challenges/steganography/file-dump-01/README.md) |
+| Hidden Loot Box | 15 | 📝 Reconstructed — Resource Offline | [View Write-up](challenges/steganography/hidden-loot-box/README.md) |
 
 **[View Steganography Collection](challenges/steganography/README.md)**
 
@@ -94,7 +95,6 @@ The challenges in this repository involve developing practical experience with:
 - **Open-Source Intelligence (OSINT):** Researching public chess game databases, correlating information from online discussions, and evaluating external evidence to investigate cryptographic challenges.
 - **Steganography & Image Forensics:** PNG metadata analysis, hidden text extraction, original-versus-modified file comparison, and SHA-256 integrity verification.
 - **Document Metadata Forensics:** Microsoft Office authorship analysis, creator and last-modifier identification, and evidence correlation across multiple documents.
-
 
 Additional skills and techniques will be documented as new challenges are completed.
 
