@@ -14,6 +14,7 @@ Each investigation includes the challenge methodology, supporting evidence, tech
 | Headshot | 10 | ✅ Team Solve — Independently Reproduced | [View Write-up](headshot/README.md) |
 | File Dump 01 | 10 | ✅ Solved — Personal Solve | [View Write-up](file-dump-01/README.md) |
 | Hidden Loot Box | 15 | 📝 Reconstructed — Resource Offline | [View Write-up](hidden-loot-box/README.md) |
+| Exfiltration | 75 | ✅ Flag Recovered — Post-CTF Investigation | [View Write-up](exfiltration/README.md) |
 
 ## Techniques Explored
 
@@ -46,6 +47,14 @@ Each investigation includes the challenge methodology, supporting evidence, tech
 ### Web Reconnaissance & robots.txt Enumeration
 
 [Hidden Loot Box](hidden-loot-box/README.md) — Reconstructed a challenge involving `robots.txt` discovery, navigation to an unlinked webpage, and recovery of a flag displayed within an image. The original challenge server is no longer accessible.
+
+### EXIF Metadata & Chronological Reconstruction
+
+[Exfiltration](exfiltration/README.md) — Recovered a message distributed across 20 JPEG images by sorting EXIF `DateTimeOriginal` values and decoding hexadecimal ASCII fragments stored in `ImageUniqueID`.
+
+### Hexadecimal Decoding & Python Automation
+
+[Exfiltration](exfiltration/README.md) — Developed a Python script using ExifTool's JSON output to reconstruct the hidden flag automatically.
 
 ## Investigation Approach
 
