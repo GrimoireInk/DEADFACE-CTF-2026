@@ -68,11 +68,12 @@ Six challenges were solved during DEADFACE CTF 2026. Chess Key is included as a 
 
 ### Steganography
 
-Steganography challenges involving hidden information, image metadata, file integrity analysis, and digital forensic techniques.
+Steganography challenges involving hidden information, image metadata, document metadata, file integrity analysis, and digital forensic techniques.
 
 | Challenge | Points | Status | Write-up |
 |---|---:|---|---|
 | Headshot | 10 | ✅ Team Solve — Independently Reproduced | [View Write-up](challenges/steganography/headshot/README.md) |
+| File Dump 01 | 10 | ✅ Personal Solve | [View Write-up](challenges/steganography/file-dump-01/README.md) |
 
 **[View Steganography Collection](challenges/steganography/README.md)**
 
@@ -92,6 +93,8 @@ The challenges in this repository involve developing practical experience with:
 - **Python Automation & Data Analysis:** PGN parsing with `python-chess`, processing compressed chess archives using `zstandard`, automated game filtering, coordinate extraction, and ciphertext analysis.
 - **Open-Source Intelligence (OSINT):** Researching public chess game databases, correlating information from online discussions, and evaluating external evidence to investigate cryptographic challenges.
 - **Steganography & Image Forensics:** PNG metadata analysis, hidden text extraction, original-versus-modified file comparison, and SHA-256 integrity verification.
+- **Document Metadata Forensics:** Microsoft Office authorship analysis, creator and last-modifier identification, and evidence correlation across multiple documents.
+
 
 Additional skills and techniques will be documented as new challenges are completed.
 

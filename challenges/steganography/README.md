@@ -12,6 +12,7 @@ Each investigation includes the challenge methodology, supporting evidence, tech
 | Challenge | Points | Status | Write-up |
 |---|---:|---|---|
 | Headshot | 10 | ✅ Team Solve — Independently Reproduced | [View Write-up](headshot/README.md) |
+| File Dump 01 | 10 | ✅ Solved — Personal Solve | [View Write-up](file-dump-01/README.md) |
 
 ## Techniques Explored
 
@@ -36,6 +37,11 @@ Each investigation includes the challenge methodology, supporting evidence, tech
 | `shasum` | Calculate SHA-256 hashes |
 | macOS Terminal | Evidence examination and command execution |
 | Git & GitHub | Version control and investigation documentation |
+
+### Document Metadata Analysis & Evidence Correlation
+
+[File Dump 01](file-dump-01/README.md) — Identified a DEADFACE member's alias by analyzing creator and last-modifier metadata across Microsoft Office documents using ExifTool.
+
 
 ## Investigation Approach
 
