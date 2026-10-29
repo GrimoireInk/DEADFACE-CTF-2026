@@ -13,7 +13,8 @@ Each completed challenge has its own directory containing a detailed README with
 
 | Challenge | Points Available | Status | Write-up |
 |---|---:|---|---|
-| Foothold on Charon | 10 | ✅ Independently Solved | [View Write-up](foothold-on-charon/README.md) |
+| Foothold on Charon | 10 | ✅ | [View Write-up](foothold-on-charon/README.md) |
+| Looking Back | 30 | ✅ | [View Write-up](looking-back/README.md) |
 
 ## Techniques Explored
 
@@ -24,6 +25,10 @@ Each completed challenge has its own directory containing a detailed README with
 ### Linux File and Directory Analysis
 
 [Foothold on Charon](foothold-on-charon/README.md) — Examined directory listings and file permissions to locate and retrieve the initial foothold flag.
+
+### Shell History & Credential Exposure
+
+[Looking Back](looking-back/README.md) — Investigated a service account's Bash history, identified exposed credentials in a `chpasswd` command, authenticated as another local account using `su`, and recovered the flag.
 
 ---
 
