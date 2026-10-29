@@ -81,6 +81,16 @@ Steganography challenges involving hidden information, image metadata, document 
 
 **[View Steganography Collection](challenges/steganography/README.md)**
 
+### Hostbusters
+
+Hostbusters challenges involving Linux system enumeration, initial access verification, service account permissions, filesystem investigation, and host-based security analysis.
+
+| Challenge | Points | Status | Write-up |
+|---|---:|---|---|
+| Foothold on Charon | 10 | ✅ Personal Solve | [View Write-up](challenges/hostbusters/foothold-on-charon/README.md) |
+
+**[View Hostbusters Collection](challenges/hostbusters/README.md)**
+
 ---
 
 ## Technical Skills & Concepts
